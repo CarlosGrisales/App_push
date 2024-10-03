@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620103609007",
+    "project_id": "flutter-notification-app-406cb",
+    "storage_bucket": "flutter-notification-app-406cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620103609007:android:c2cd7883b3047ae5de025a",
+        "android_client_info": {
+          "package_name": "com.stivengrisales.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2YTEoL4DOAYn0PYMjHaM2kW0SOgKYUPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
